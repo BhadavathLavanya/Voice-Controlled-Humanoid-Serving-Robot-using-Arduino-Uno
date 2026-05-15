@@ -1,0 +1,2 @@
+# Voice-Controlled-Humanoid-Serving-Robot-using-Arduino-Uno
+Voice-Controlled Humanoid Serving Robot using Arduino Uno is an intelligent service robot designed to perform serving tasks through voice commands. It uses Arduino Uno, servo motors, and Bluetooth/voice recognition technology to control movement and object delivery, making it ideal for robotics learning, smart assistance, and automation projects.
